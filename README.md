@@ -23,7 +23,7 @@ In this project, I gathered real channel data using YouTube's API and conducted 
 
 - Model #1: Relationship between View Count and Like Count (Linear Regression)
 
-- Model #3: Optimal time to post (Random Forest Classification)
+- Model #2: Optimal time to post (Random Forest Classification)
 
 - Natural Language Processing (NLP) via word cloud and Sentiment Analysis
 
